@@ -106,7 +106,7 @@ All projects are created for **learning and demonstration purposes only** and do
 ---
 
 ## 📬 Contact
-- **LinkedIn:** (add your LinkedIn profile link)
-- **Email:** (add your professional email)
+- **LinkedIn:** www.linkedin.com/in/swagata-bal-430383175
+- **Email:** swagatabal11@gmail.com
 
 ⭐ Recruiters and hiring managers are welcome to explore the projects or reach out for discussion.
